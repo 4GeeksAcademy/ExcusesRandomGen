@@ -1,0 +1,41 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+body {
+    background: rgb(59, 59, 59);
+    font-family: Arial, sans-serif;
+}
+   #button {
+    background-color: greenyellow;
+    border: 2px solid black;
+    padding: 10px 20px;
+    cursor: pointer; 
+    border-radius: 5px;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
+}
+.container {
+    background-color: whitesmoke;
+    width: 80%;
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    border:3px black
+}
+
+#box {
+    background-color: whitesmoke;
+    width: 100%;
+    border: 2px solid darkolivegreen;
+    border-radius: 10px;
+    margin: 20px 0;
+    padding: 15px;
+    min-height: 50px;
+}
+
+
+
+
+
